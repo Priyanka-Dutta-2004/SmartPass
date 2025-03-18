@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/userHome"
+        android:icon="?attr/homeIcon"
+        android:title="@string/home" />
+
+    <item
+        android:id="@+id/userNewForm"
+        android:icon="?attr/formIcon"
+        android:title="@string/newForm" />
+
+    <item
+        android:id="@+id/userAppointment"
+        android:icon="?attr/appointmentIcon"
+        android:title="@string/appointments" />
+
+</menu>
