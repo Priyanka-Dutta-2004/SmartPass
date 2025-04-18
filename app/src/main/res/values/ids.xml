@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="username" type="id"/>
+    <item name="loginButton" type="id"/>
+    <item name="signUp" type="id"/>
+    <item name="forgotPassword" type="id"/>
+    <item name="password" type="id"/>
+    <item name="viewLine" type="id"/>
+    <item name="editUserName" type="id"/>
+    <item name="UserPhone" type="id"/>
+    <item name="editUserPhone" type="id"/>
+    <item name="UserAge" type="id"/>
+    <item name="editUserAge" type="id"/>
+    <item name="UserEmail" type="id"/>
+    <item name="UserPassword" type="id"/>
+    <item name="editUserPassword" type="id"/>
+    <item name="GoogleSignUpBtn" type="id"/>
+    <item name="editUserEmail" type="id"/>
+</resources>

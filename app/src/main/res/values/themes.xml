@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SmartPass" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <!-- Text Color -->
+
+        <item name="buttonTextColor">@color/black</item>
+
+        <!-- Icons -->
+        <item name="notificationIcon">@drawable/ic_blue_notifications_icon</item>
+        <item name="menuIcon">@drawable/ic_menu_icon</item>
+        <item name="homeIcon">@drawable/ic_home_icon</item>
+        <item name="appointmentIcon">@drawable/ic_blue_calendar_icon</item>
+        <item name="formIcon">@drawable/ic_blue_form_icon</item>
+
+        <!-- Buttons -->
+        <item name="buttonBackground">@drawable/button_style</item>
+        <item name="buttonBackgroundTransparent">@drawable/button_transparent_style</item>
+
+
+    </style>
+
+    <style name="Theme.SmartPass" parent="Base.Theme.SmartPass" />
+
+
+</resources>

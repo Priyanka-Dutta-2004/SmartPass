@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="buttonTextColor" format="color"/>
+    <attr name="notificationIcon" format="reference"/>
+    <attr name="menuIcon" format="reference"/>
+    <attr name="homeIcon" format="reference"/>
+    <attr name="appointmentIcon" format="reference"/>
+    <attr name="formIcon" format="reference"/>
+    <attr name="buttonBackground" format="reference"/>
+    <attr name="buttonBackgroundTransparent" format="reference"/>
+</resources>
