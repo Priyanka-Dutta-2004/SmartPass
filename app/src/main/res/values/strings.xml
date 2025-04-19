@@ -26,4 +26,26 @@
     <string name="home">Home</string>
     <string name="recyclerView">Recycler View</string>
     <string name="newForm">New Form</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="adminEmail">adminEmail</string>
+    <string name="adminPassword">Password</string>
+    <string name="adminlogin">Login</string>
+    <string name="admin_panel">Admin Panel</string>
+    <string name="manage_users">Manage Users</string>
+    <string name="view_passport_applications">View Passport Applications</string>
+    <string name="viewPassports">ViewPassports</string>
+    <string name="logout">Logout</string>
+    <string name="admin_id">Admin ID</string>
+    <string name="status">Status</string>
+    <string name="suspend">Suspend</string>
+    <string name="Email">Email</string>
+    <string name="applicant_name">Applicant Name</string>
+    <string name="application_id">Application ID</string>
+    <string name="Status">Status</string>
+    <string name="Name">Name:</string>
+    <string name="Application_id">Application ID:</string>
+    <string name="approve">Approve</string>
+    <string name="reject">Reject</string>
+    <string name="reason_for_rejection">Reason for rejection</string>
+    <string name="search_users">Search Users</string>
 </resources>

@@ -16,4 +16,7 @@
     <item name="editUserPassword" type="id"/>
     <item name="GoogleSignUpBtn" type="id"/>
     <item name="editUserEmail" type="id"/>
+    <item name="viewLogsButton" type="id"/>
+    <item name="adminPasswordText" type="id">adminpassword</item>
+
 </resources>

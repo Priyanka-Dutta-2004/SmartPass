@@ -10,7 +10,6 @@ import android.database.sqlite.SQLiteOpenHelper;
 import android.content.Context;
 import java.util.ArrayList;
 import java.util.List;
-
 public class DatabaseHelper extends SQLiteOpenHelper {
     private static final String DB_NAME = "passport_app";
     private static final int DB_VERSION = 1;
